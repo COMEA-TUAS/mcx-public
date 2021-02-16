@@ -1,0 +1,12 @@
+modelconductor.egg-info/
+.pytest_cache/
+.idea/
+modelconductor/.idea/
+modelconductor/.cache/
+modelconductor/.testresources/
+modelconductor/.customexamples/
+modelconductor/customtests.py
+modelconductor/test_query
+modelconductor/dummy_query
+modelconductor/test.db
+*.log
